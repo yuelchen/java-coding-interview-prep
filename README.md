@@ -14,7 +14,44 @@ List<String> listOfStrings = new ArrayList<>();
 List<Integer> listOfIntegers = new ArrayList<>();
 ```
 
+## What's covered?
+### Data Structures Covered
+- Queue
+- Stack 
+- HashSet
+- HashMap
+- Singly LinkedList
+- Doubly LinkedList
+- Circular Singly LinkedList
+- Circular Doubly LinkedList
+- Directed Graph
+- Undirected Graph
+- Binary Search Tree
+- Binary Min Heap
+- Binary Max Heap
+
+### Algorithms Covered
+- Linear Search 
+- Binary Search
+- Selection Sort
+- Insertion Sort
+- Quick Sort
+- Merge Sort
+
 ## Repository Overview
+### Data Structure Java Projects
+#### 🎯 \[[custom-data-structure](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure)\]/
+The incomplete version to be used for practice and implementing on your own. 
+#### 🎯 \[[custom-data-structure \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure%20%5Bcomplete%5D)\]/
+The completed version to be used for reference. 
+
+### Algorithm Java Projects
+#### 🎯 \[[practice-algorithms](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms)\]/
+The incomplete version to be used for practice and implementing on your own. 
+#### 🎯 \[[practice-algorithms \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms%20%5Bcomplete%5D)\]/
+The completed version to be used for reference. 
+
+## Big O Notation
 ### Data Structures in Big O Notation
 | Data Structure | Add/Insert | Remove/Delete | Access/Get | Search/Contains | Space Complexity |
 | --- | --- | --- | --- | --- | --- |
@@ -31,26 +68,6 @@ List<Integer> listOfIntegers = new ArrayList<>();
 | Binary Min Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
 | Binary Max Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
 
-### Data Structures Covered
-- Queue
-- Stack 
-- HashSet
-- HashMap
-- Singly LinkedList
-- Doubly LinkedList
-- Circular Singly LinkedList
-- Circular Doubly LinkedList
-- Directed Graph
-- Undirected Graph
-- Binary Search Tree
-- Binary Min Heap
-- Binary Max Heap
-- 
-### Data Structure Java Projects
-#### 🎯 \[[custom-data-structure](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure)\]/
-The incomplete version to be used for practice and implementing on your own. 
-#### 🎯 \[[custom-data-structure \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure%20%5Bcomplete%5D)\]/
-
 ### Sorting Algorithms in Big O Notiation
 | Sort Algorithm | Best | Average | Worst | Space Complexity |
 | --- | --- | --- | --- | --- |
@@ -59,16 +76,4 @@ The incomplete version to be used for practice and implementing on your own.
 | Quick Sort | ```O(log n)``` | ```O(log n)``` | ```O(n^2)``` | ```O(log n)``` |
 | Merge Sort | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(n)``` |
 
-### Algorithms Covered
-- Linear Search 
-- Binary Search
-- Selection Sort
-- Insertion Sort
-- Quick Sort
-- Merge Sort
-
-### Algorithm Java Projects
-#### 🎯 \[[practice-algorithms](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms)\]/
-The incomplete version to be used for practice and implementing on your own. 
-#### 🎯 \[[practice-algorithms \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms%20%5Bcomplete%5D)\]/
-The completed version to be used for reference. 
+### 
