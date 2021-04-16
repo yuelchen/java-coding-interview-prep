@@ -14,7 +14,7 @@ List<String> listOfStrings = new ArrayList<>();
 List<Integer> listOfIntegers = new ArrayList<>();
 ```
 
-## What's Covered?
+## What is covered?
 ### Custom Implementation of Data Structures
 - Queue 
 - Stack 
