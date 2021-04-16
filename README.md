@@ -15,8 +15,7 @@ List<Integer> listOfIntegers = new ArrayList<>();
 ```
 
 ## Repository Overview
-### Incomplete - Use the below to implement your own solutions.
-#### 🎯 \[[custom-data-structure](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure)\]/
+### Data Structures Covered
 - Queue
 - Stack 
 - HashSet
@@ -31,19 +30,7 @@ List<Integer> listOfIntegers = new ArrayList<>();
 - Binary Min Heap
 - Binary Max Heap
 
-#### 🎯 \[[practice-algorithms](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms)\]/
-- Linear Search 
-- Binary Search
-- Selection Sort
-- Insertion Sort
-- Quick Sort
-- Merge Sort
-
-### Completed - Use the below as reference and review. 
-#### 🎯 \[[custom-data-structure \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure%20%5Bcomplete%5D)\]/
-#### 🎯 \[[practice-algorithms \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms%20%5Bcomplete%5D)\]/
-
-## Data Structures in Big O Notation
+### Data Structures in Big O Notation
 | Data Structure | Add/Insert | Remove/Delete | Access/Get | Search/Contains | Space Complexity |
 | --- | --- | --- | --- | --- | --- |
 | Array | ```O(n)``` | ```O(n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
@@ -59,10 +46,29 @@ List<Integer> listOfIntegers = new ArrayList<>();
 | Binary Min Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
 | Binary Max Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
 
-## Sorting Algorithm in Big O Notiation
+### Data Structure Java Projects
+#### 🎯 \[[custom-data-structure](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure)\]/
+The incomplete version to be used for practice and implementing on your own. 
+#### 🎯 \[[custom-data-structure \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure%20%5Bcomplete%5D)\]/
+
+### Algorithms Covered
+- Linear Search 
+- Binary Search
+- Selection Sort
+- Insertion Sort
+- Quick Sort
+- Merge Sort
+
+### Sorting Algorithms in Big O Notiation
 | Sort Algorithm | Best | Average | Worst | Space Complexity |
 | --- | --- | --- | --- | --- |
 | Selection Sort | ```O(n^2)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
 | Insertion Sort | ```O(n)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
 | Quick Sort | ```O(log n)``` | ```O(log n)``` | ```O(n^2)``` | ```O(log n)``` |
 | Merge Sort | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(n)``` |
+
+### Algorithm Java Projects
+#### 🎯 \[[practice-algorithms](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms)\]/
+The incomplete version to be used for practice and implementing on your own. 
+#### 🎯 \[[practice-algorithms \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms%20%5Bcomplete%5D)\]/
+The completed version to be used for reference. 
