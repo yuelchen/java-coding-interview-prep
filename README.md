@@ -14,32 +14,6 @@ List<String> listOfStrings = new ArrayList<>();
 List<Integer> listOfIntegers = new ArrayList<>();
 ```
 
-## What is covered?
-### Custom Implementation of Data Structures
-- Queue 
-- Stack 
-- HashSet
-- HashMap
-- Singly Linked List
-- Doubly Linked List
-- Circular Singly Linked List
-- Circular Doubly Linked List
-- Directed Graph
-- Undirected Graph
-- Binary Search Tree
-- Binary Min Heap
-- Binary Max Heap
-
-### Algorithm Implementations:
-#### Searching 
-- Linear Search
-- Binary Search
-#### Sorting
-- Selection Sort
-- Insertion Sort
-- Quick Sort
-- Merge Sort
-
 ## Repository Overview
 ### Incomplete - Use the below to implement your own solutions.
 #### 🎯 \[[custom-data-structure](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure)\]/
@@ -49,4 +23,26 @@ List<Integer> listOfIntegers = new ArrayList<>();
 #### 🎯 \[[custom-data-structure \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure%20%5Bcomplete%5D)\]/
 #### 🎯 \[[practice-algorithms \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms%20%5Bcomplete%5D)\]/
 
+## Data Structures in Big O Notation
+| Data Structure | Add/Insert | Remove/Delete | Access/Get | Search/Contains | Space Complexity |
+| --- | --- | --- | --- | --- | --- |
+| Array | ```O(n)``` | ```O(n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
+| Queue | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
+| Stack | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
+| HashSet | ```O(1)``` | ```O(1)``` | - | ```O(1)``` | ```O(n)``` |
+| HashMap | ```O(1)``` | ```O(1)``` | ```O(1)``` | ```O(1)``` | ```O(n)``` |
+| Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
+| Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
+| Circular Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
+| Circular Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
+| Binary Search Tree | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(n)``` |
+| Binary Min Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
+| Binary Max Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
 
+## About Algorithms Covered
+### Linear Search
+### Binary Search
+### Selection Sort
+### Insertion Sort
+### Quick Sort
+### Merge Sort
