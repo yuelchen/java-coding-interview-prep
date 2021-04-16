@@ -17,7 +17,27 @@ List<Integer> listOfIntegers = new ArrayList<>();
 ## Repository Overview
 ### Incomplete - Use the below to implement your own solutions.
 #### 🎯 \[[custom-data-structure](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure)\]/
+- Queue
+- Stack 
+- HashSet
+- HashMap
+- Singly LinkedList
+- Doubly LinkedList
+- Circular Singly LinkedList
+- Circular Doubly LinkedList
+- Directed Graph
+- Undirected Graph
+- Binary Search Tree
+- Binary Min Heap
+- Binary Max Heap
+
 #### 🎯 \[[practice-algorithms](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms)\]/
+- Linear Search 
+- Binary Search
+- Selection Sort
+- Insertion Sort
+- Quick Sort
+- Merge Sort
 
 ### Completed - Use the below as reference and review. 
 #### 🎯 \[[custom-data-structure \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure%20%5Bcomplete%5D)\]/
@@ -39,10 +59,10 @@ List<Integer> listOfIntegers = new ArrayList<>();
 | Binary Min Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
 | Binary Max Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
 
-## About Algorithms Covered
-### Linear Search
-### Binary Search
-### Selection Sort
-### Insertion Sort
-### Quick Sort
-### Merge Sort
+## Sorting Algorithm in Big O Notiation
+| Sort Algorithm | Best | Average | Worst | Space Complexity |
+| --- | --- | --- | --- | --- |
+| Selection Sort | ```O(n^2)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
+| Insertion Sort | ```O(n)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
+| Quick Sort | ```O(log n)``` | ```O(log n)``` | ```O(n^2)``` | ```O(log n)``` |
+| Merge Sort | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(n)``` |
