@@ -14,16 +14,8 @@ List<String> listOfStrings = new ArrayList<>();
 List<Integer> listOfIntegers = new ArrayList<>();
 ```
 
-## Repository Overview
-### Incomplete - Use the below to implement your own solutions.
-#### 🎯 \[[custom-data-structure](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure)\]/
-#### 🎯 \[[practice-algorithms](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms)\]/
-
-### Completed - Use the below as reference and review. 
-#### 🎯 \[[custom-data-structure \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure%20%5Bcomplete%5D)\]/
-#### 🎯 \[[practice-algorithms \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms%20%5Bcomplete%5D)\]/
-
-## Data Structures Custom Implementations:
+## What's Covered?
+### Custom Implementation of Data Structures
 - Queue 
 - Stack 
 - HashSet
@@ -38,12 +30,23 @@ List<Integer> listOfIntegers = new ArrayList<>();
 - Binary Min Heap
 - Binary Max Heap
 
-## Algorithm Implementations:
-### Searching 
+### Algorithm Implementations:
+#### Searching 
 - Linear Search
 - Binary Search
-### Sorting
+#### Sorting
 - Selection Sort
 - Insertion Sort
 - Quick Sort
 - Merge Sort
+
+## Repository Overview
+### Incomplete - Use the below to implement your own solutions.
+#### 🎯 \[[custom-data-structure](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure)\]/
+#### 🎯 \[[practice-algorithms](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms)\]/
+
+### Completed - Use the below as reference and review. 
+#### 🎯 \[[custom-data-structure \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure%20%5Bcomplete%5D)\]/
+#### 🎯 \[[practice-algorithms \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms%20%5Bcomplete%5D)\]/
+
+
