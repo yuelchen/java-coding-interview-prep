@@ -1,5 +1,5 @@
 # Java Interview Prep
-This repository is a collection of Java projects for brushing up on Data Structures and Algorithms.
+This repository is a collection of Java projects for brushing up on Data Structures, Algorithms and more!
 
 ## 👋 Hello 👋
 If you found this work to be helpful and would like support me, please consider getting me a ☕ ko-fi :)
@@ -37,6 +37,11 @@ List<Integer> listOfIntegers = new ArrayList<>();
 - Insertion Sort
 - Quick Sort
 - Merge Sort
+
+### Mathematics / Calculations Covered
+- Math formulas for 2d and 3d shapes.  
+- Billing related (tips, discounts, commission, and etc).  
+- Statistics (i.e. mean, median, mode, min and max).  
 
 ## Repository Overview
 ### Data Structure Java Practice Project(s)
@@ -81,5 +86,3 @@ The completed version to be used for reference.
 | Insertion Sort | ```O(n)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
 | Quick Sort | ```O(log n)``` | ```O(log n)``` | ```O(n^2)``` | ```O(log n)``` |
 | Merge Sort | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(n)``` |
-
-### 
