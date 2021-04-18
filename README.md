@@ -39,17 +39,23 @@ List<Integer> listOfIntegers = new ArrayList<>();
 - Merge Sort
 
 ## Repository Overview
-### Data Structure Java Projects
-#### 🎯 \[[custom-data-structure](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure)\]/
-The incomplete version to be used for practice and implementing on your own. 
-#### 🎯 \[[custom-data-structure \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure%20%5Bcomplete%5D)\]/
-The completed version to be used for reference. 
+### Data Structure Java Practice Project(s)
+#### 🎯 \[[custom-data-structure](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure)\]/  
+The incomplete version to be used for practice and implementing on your own.  
+#### 🎯 \[[custom-data-structure \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure%20%5Bcomplete%5D)\]/  
+The completed version to be used for reference.  
 
-### Algorithm Java Projects
-#### 🎯 \[[practice-algorithms](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms)\]/
-The incomplete version to be used for practice and implementing on your own. 
-#### 🎯 \[[practice-algorithms \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms%20%5Bcomplete%5D)\]/
-The completed version to be used for reference. 
+### Algorithm Java Practice Project(s)
+#### 🎯 \[[practice-algorithms](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms)\]/  
+The incomplete version to be used for practice and implementing on your own.  
+#### 🎯 \[[practice-algorithms \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms%20%5Bcomplete%5D)\]/  
+The completed version to be used for reference.  
+
+### Mathematics Java Practice Project(s)
+#### 🎯 \[[practice-mathematics](https://github.com/yuelchen/java-interview-prep/tree/main/practice-mathematics)\]/  
+The incomplete version to be used for practice and implementing on your own.  
+#### 🎯 \[[practice-mathematics \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/practice-mathematics%20%5Bcomplete%5D)\]/  
+The completed version to be used for reference.  
 
 ## Big O Notation
 ### Data Structures in Big O Notation
