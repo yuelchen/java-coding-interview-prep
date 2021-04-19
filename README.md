@@ -38,25 +38,38 @@ List<Integer> listOfIntegers = new ArrayList<>();
 - Quick Sort
 - Merge Sort
 
+### Design Patterns Covered
+- Singleton
+- Factory
+- Pool
+- Observer
+- Command
+
 ### Mathematics / Calculations Covered
 - Math formulas for 2d and 3d shapes.  
 - Billing related (tips, discounts, commission, and etc).  
 - Statistics (i.e. mean, median, mode, min and max).  
 
 ## Repository Overview
-### Data Structure Java Practice Project(s)
+### Data Structure Java Practice
 #### 🎯 \[[custom-data-structure](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure)\]/  
 The incomplete version to be used for practice and implementing on your own.  
 #### 🎯 \[[custom-data-structure \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/custom-data-structure%20%5Bcomplete%5D)\]/  
 The completed version to be used for reference.  
 
-### Algorithm Java Practice Project(s)
+### Algorithm Java Practice
 #### 🎯 \[[practice-algorithms](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms)\]/  
 The incomplete version to be used for practice and implementing on your own.  
 #### 🎯 \[[practice-algorithms \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/practice-algorithms%20%5Bcomplete%5D)\]/  
 The completed version to be used for reference.  
 
-### Mathematics Java Practice Project(s)
+### Design Patterns Practice  
+#### 🎯 \[[design-patterns](https://github.com/yuelchen/java-coding-interview/tree/main/design-patterns)\]/
+The incomplete version to be used for practice and implementing on your own. 
+#### 🎯 \[[design-patterns \[complete\]](https://github.com/yuelchen/java-coding-interview/tree/main/design-patterns%20%5Bcomplete%5D)\]
+The completed version to be used for reference.  
+
+### Mathematics Java Practice
 #### 🎯 \[[practice-mathematics](https://github.com/yuelchen/java-interview-prep/tree/main/practice-mathematics)\]/  
 The incomplete version to be used for practice and implementing on your own.  
 #### 🎯 \[[practice-mathematics \[complete\]](https://github.com/yuelchen/java-interview-prep/tree/main/practice-mathematics%20%5Bcomplete%5D)\]/  
