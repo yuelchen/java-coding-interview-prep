@@ -1,4 +1,4 @@
-# Java Coding Interview
+# Java Coding Interview Prep
 This repository is a collection of Java projects for brushing up on Data Structures, Algorithms and more!
 
 ## 👋 Hello 👋
