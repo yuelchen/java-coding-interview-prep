@@ -1,9 +1,6 @@
 # Java Coding Interview Prep
 This repository is a collection of Java projects for brushing up on Data Structures, Algorithms and more!
 
-## 👋 Hello 👋
-If you found this work to be helpful and would like support me, please consider getting me a [☕ ko-fi](https://ko-fi.com/yuelchen) :)
-
 ## We Used Generics
 The custom Data Structure and Algorithm Java classes are written with Generics. 
 A Java class with Generics has a parameterized type which allows that Java class to use a different data type. 
